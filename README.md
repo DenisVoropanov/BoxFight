@@ -13,7 +13,8 @@
 <img width="234" alt="Screenshot003" src="https://user-images.githubusercontent.com/78722676/180605467-44881c0d-67f6-4512-916e-370c3f5bd5b0.png">
 <img width="234" alt="Screenshot004" src="https://user-images.githubusercontent.com/78722676/180605464-ff9466d9-c283-42fa-a443-fcdad2c33741.png">
 <img width="234" alt="Screenshot005" src="https://user-images.githubusercontent.com/78722676/180605460-3ad6c02e-6c4e-4ce0-8147-4230a9cc1b4c.png">
+
+
 ## Иконка: 
+![114](https://user-images.githubusercontent.com/78722676/180605899-9120d2d8-38b4-4042-9f70-83d7a04f29ce.png)
 
-
-![1024](https://user-images.githubusercontent.com/78722676/180605868-a937c510-8827-4a67-ad85-f64d1aa2ab0a.png)
